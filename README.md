@@ -1,4 +1,4 @@
-# Lung-Cancer-
+# Lung-Cancer Data analysis -
 Data analysis In Lung cancer 
 
 Creating a GitHub README for a Lung Cancer Prediction project involves providing concise and informative content that encourages users to understand, contribute, and use the project effectively. Below is a sample README template for a Lung Cancer Prediction project:
