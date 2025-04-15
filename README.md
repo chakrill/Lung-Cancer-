@@ -73,6 +73,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contact
 For questions or collaboration, reach out to:
 - GitHub: chakrill
-- Email: your.email@example.com
+- Email: kvchakradhar74@example.com
 - LinkedIn: [Your Name](https://www.linkedin.com/in/chakri-kv/)
 
